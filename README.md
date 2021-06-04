@@ -1,4 +1,4 @@
-# OS project multi-threading vs single-thread
+# OS project multi-threading vs single-threading
 
 This is my code for OS Course Project. 
 
